@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajaywalsane143
+- 👋 Hi, I’m @ajaywalsane
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning engineering in computer engineering
 - 💞️ I’m looking to collaborate on project related to python
